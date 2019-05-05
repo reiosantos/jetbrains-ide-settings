@@ -1,0 +1,134 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/11.1.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.10.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/opt/node@8/bin/node">
+      <version-cache version="8.15.0" last-modified="1550825743000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value=".SFNSText-Regular" />
+    <option name="fontScale" value="1.0" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="COMPOSER_PACKAGE_FILTER" value="symfony/" />
+    <property name="ColorChooser.RecentColors" value="74-130-235-255,,,127-127-127-7,,,51-89-219-184,,,121-123-128-255,,,140-199-255-255,,,51-128-116-255,,,96-160-255-255,,,66-109-174-255,,,149-0-2-255,,,68-68-68-255,,,0-184-155-255,,,255-255-255-255,,,32-64-254-255,,,161-0-255-255,,,249-249-244-255,,,191-191-186-255,,,171-178-191-255,,,0-41-0-255,,,0-127-0-255,,,91-60-191-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6127248" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="DBE.Default.Dialect" value="PostgreSQL" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Unnamed" />
+    <property name="GOOGLE_CLOUD_TOOLS_USAGE_TRACKER_OPT_IN" value="true" />
+    <property name="Github.PullRequest.Preview.Component" value="0.57154214" />
+    <property name="InstalledPluginsSearchHistory" value="settin&#10;cucumber&#10;tslint&#10;edis&#10;dependency" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="5" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="1181" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="74" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KarmaJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="KarmaJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="KarmaJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="KarmaJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.hidePassedTests" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PACKAGE_FILTER" value="angular&#10;material-ui&#10;express-ge" />
+    <property name="PLUGIN_FILTER" value="vim&#10;jetbrains&#10;teamc&#10;theme&#10;UI" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SearchEveryWhereHistory" value="{&#10;:&#10;share&#10;&lt;TableRow&gt; &#9;&#9;&#9;&#9;&#9;&lt;CustomTableCell&gt;Pick Up&lt;/CustomTableCell&gt; &#9;&#9;&#9;&#9;&#9;&lt;CustomTableCell&gt;Destination&lt;/CustomTableCell&gt; &#9;&#9;&#9;&#9;&#9;&lt;CustomTableCell&gt; &#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;Amount&lt;/span&gt; &#9;&#9;&#9;&#9;&#9;&#9;&lt;sup&gt;(Ugx)&lt;/sup&gt; &#9;&#9;&#9;&#9;&#9;&lt;/CustomTableCell&gt; &#9;&#9;&#9;&#9;&#9;&lt;CustomTableCell&gt;Departure&lt;/CustomTableCell&gt; &#9;&#9;&#9;&#9;&#9;&lt;CustomTableCell&gt;Status&lt;/CustomTableCell&gt; &#9;&#9;&#9;&#9;&#9;&lt;CustomTableCell /&gt; &#9;&#9;&#9;&#9;&lt;/TableRow&gt;&#10;&gt;" />
+    <property name="SettingsSearchHistory" value="reposi&#10;settings&#10;cucumber&#10;height&#10;styl" />
+    <property name="SplitFileEditor.Proportion" value="0.56552166" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="node&#10;yarn&#10;expre" />
+    <property name="TrendingPluginsSearchHistory" value="elementor&#10;karma&#10;protractor&#10;jasmine&#10;cucumber" />
+    <property name="cc.takacs.php_codeverage_display.enabled" value="true" />
+    <property name="color.picker.is.hsb" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="OCEANIC" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="404" />
+    <property name="com.karateca.jstoolbox.fileSuffix" value=".js,.ts" />
+    <property name="com.karateca.jstoolbox.fromPath" value="" />
+    <property name="com.karateca.jstoolbox.searchUrl" value="https://github.com/search?q={fileName}#L{line}" />
+    <property name="com.karateca.jstoolbox.testSuffix" value="-spec.js,~.test.js,~spec.ts,~test.ts" />
+    <property name="com.karateca.jstoolbox.useFilePath" value="false" />
+    <property name="com.karateca.jstoolbox.viewSuffix" value=".html" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="evlsprt3.191" value="12" />
+    <property name="file.gist.reindex.count" value="958378" />
+    <property name="fileTypeChangedCounter" value="45" />
+    <property name="ideavim.statistics.timestamp" value="1556639457018" />
+    <property name="javascript.refactoring.extractComponent.property.key" value="Class" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="62108" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.var.names.completion" value="true" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="851" />
+    <property name="lastTip" value="1" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="rainbow.selected.color.option.name" value="Angle Brackets" />
+    <property name="rerun.tests.notification.shown" value="true" />
+    <property name="selected.color.option.type" value="CONSOLE_BACKGROUND_KEY" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JSON" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.SCSS" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.SQL" value="Case" />
+    <property name="settings.code.style.selected.tab.Twig" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Imports" />
+    <property name="settings.code.style.selected.tab.yaml" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.3.3333" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="vcs.log.details.splitter.proportion" value="0.5362319" />
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://localhost:8111&amp;^%$#@reiosantos" />
+  </component>
+  <component name="com.seventh7.widget.iedis.config.H">
+    <pattern>*</pattern>
+    <pattern>subscriber</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="127.0.0.1" host="127.0.0.1" port="6379" timestamp="1554109259639" valueEditorName="BytesValueEditor" />
+    </servers>
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".nycrc" type="JSON" />
+      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern=".jscs" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

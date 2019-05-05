@@ -1,0 +1,171 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/angular" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/angular-material" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/babel-core" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/cucumber" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/cypress-axe" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/enzyme" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/enzyme-adapter-react-16" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/eslint" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/eslint-plugin-prettier" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/eslint-scope" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/gulp-angular-templatecache" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/joi" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/material-ui" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/nodemailer" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/restify" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/restify-cors-middleware" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/restify-plugins" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sequelize" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sequelize-fixtures" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sinon" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/stripe" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/stripe-v3" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/stripejs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/validator" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="jquery-2.1.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.1." />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.1.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.1.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery.dataTables" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_1.10.19_js_jquery.dataTables.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_1.10.19_js_jquery.dataTables.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="material" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.getmdl.io_1.3.0_material.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.getmdl.io_1.3.0_material.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="materialize" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_materialize_0.97.5_js_materialize.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_materialize_0.98.0_js_materialize.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_materialize_0.97.5_js_materialize.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_materialize_0.98.0_js_materialize.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
