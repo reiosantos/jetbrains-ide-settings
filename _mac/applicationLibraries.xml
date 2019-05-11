@@ -100,6 +100,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/sinon-chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sinon-express-mock" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/stripe" type="javaScript">
       <CLASSES />
       <SOURCES />
