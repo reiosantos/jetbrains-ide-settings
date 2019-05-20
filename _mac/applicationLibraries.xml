@@ -120,6 +120,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/swagger-jsdoc" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/swagger-ui-express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/validator" type="javaScript">
       <CLASSES />
       <SOURCES />
