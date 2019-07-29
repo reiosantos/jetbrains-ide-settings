@@ -8,6 +8,7 @@
       <mapping pattern=".nycrc" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern=".jscs" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".eslintigonre" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
