@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="627446eb-fc26-482a-a227-55ad865f4042" name="34.83.1.186" url="http://34.83.1.186">
+        <fileTransfer host="34.83.1.186" port="22" privateKey="$USER_HOME$/.ssh/google_compute_engine" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
