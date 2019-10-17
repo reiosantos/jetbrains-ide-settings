@@ -86,6 +86,10 @@
           <option name="url" value="https://github.com/TuringCom/backend_challenge_template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-rba.hackerrank.com/git/a5f77840-5d0e-4286-84e9-6955b89316" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
