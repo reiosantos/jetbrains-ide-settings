@@ -48,6 +48,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/grunt" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/gulp" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/gulp-angular-templatecache" type="javaScript">
       <CLASSES />
       <SOURCES />
